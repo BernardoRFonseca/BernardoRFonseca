@@ -52,10 +52,10 @@ Python | Anaconda | SQL | Excel | Bloomberg Terminal
 > <p>Skills: Machine Learning, Time Series, Heroku, API, Bot</p>
 <br>
 
-<strong><a href="https://github.com/charlleskleber/Insurance-Cross-Sell">2. Health Insurance Cross Sell( markdown in dev )</a></strong>
+<strong><a href="https://github.com/BernardoRFonseca/teslastock">2. Tesla Stock Price Project( markdown in dev )</a></strong>
 <br>
-<a href="https://github.com/charlleskleber/Insurance-Cross-Sell">
-	<img src="https://github.com/charlleskleber/Insurance-Cross-Sell/blob/main/img/insurancecover.jpg" alt="drawing" align="right" width="25%"/>
+<a href="https://github.com/BernardoRFonseca/teslastock">
+	<img src="https://user-images.githubusercontent.com/68538809/118410140-e2fbf200-b685-11eb-8c96-6600d7e8c8ea.jpg" alt="drawing" align="right" width="25%"/>
 </a>
 > <p>Forecast of clients with greater chances of contracting the new product in which the insurance company offers during the product launch campaign</p>
 > <p>skills: Unbalanced Data, Machine Learning</p>

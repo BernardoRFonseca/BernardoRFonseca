@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋! I'm Bernardo R. Fonseca</h1>
 
-<h3 align="center">Data Scientist</h3>
+<h3 align="center">Financial Data Analyst</h3>
 
 <div align="center">
     <a href="https://www.linkedin.com/in/bernardofonsecaster/" target="_blank"><img src="icons/linkedin.svg" alt="Linkedin" width="4%" lenght="4%"></a>&nbsp;&nbsp;
@@ -18,14 +18,12 @@
 
 The main objective of this data science personal project portfolio is to demonstrate my skills in solving business challenges through my knowledge and tools of Data Science.
 
-I have studied Data Science since 2020, and i still didn't had the chance to work in a Data Scientist roll.
+24-year-old 𝗧𝗿𝗶𝗹𝗶𝗻𝗴𝘂𝗮𝗹 professional (English, Portuguese and French) possessing a 𝗕𝗦𝗰 𝗶𝗻 𝗙𝗶𝗻𝗮𝗻𝗰𝗲, 𝗡𝗮𝗻𝗼𝗱𝗲𝗴𝗿𝗲𝗲 𝗶𝗻 𝗗𝗮𝘁𝗮 𝗔𝗻𝗮𝗹𝘆𝘀𝗶𝘀 and several courses related to economics. 𝗢𝘃𝗲𝗿 𝟯 𝘆𝗲𝗮𝗿𝘀 𝗼𝗳 𝗲𝘅𝗽𝗲𝗿𝗶𝗲𝗻𝗰𝗲 working as Financial Data Analyst and Data Collector.
 
-I am capable of executing all stages of developing a business solution using the concepts and tools of Data Science, from understanding the business to publishing the model using Clouds.
+Currently 𝗦𝗲𝗻𝗶𝗼𝗿 𝗙𝗶𝗻𝗮𝗻𝗰𝗶𝗮𝗹 𝗗𝗮𝘁𝗮 𝗔𝗻𝗮𝗹𝘆𝘀𝘁 at Infosys BPM for Bloomberg LP and a 𝗛𝗶𝗴𝗵𝗲𝗿 𝗗𝗶𝗽𝗹𝗼𝗺𝗮 𝗶𝗻 𝗦𝗰𝗶𝗲𝗻𝗰𝗲 𝗶𝗻 𝗗𝗮𝘁𝗮 𝗔𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝘀 𝘀𝘁𝘂𝗱𝗲𝗻𝘁 at CCT College Dublin.
 
-I have already developed solutions for important business problems such as predicting sales volume and prioritizing customers for cross-selling.
-
-The details of each solution are described in the projects below.
-
+𝗘𝘅𝗽𝗲𝗿𝘁𝗶𝘀𝗲: Data Analysis | Financial Analysis|
+Python | Anaconda | SQL | Excel | Bloomberg Terminal
 
 ### **Analytical Tools:**
 

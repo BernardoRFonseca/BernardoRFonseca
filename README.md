@@ -1,16 +1,16 @@
-<h1 align="center">Hi there 👋! I'm Charlles Kleber</h1>
+<h1 align="center">Hi there 👋! I'm Bernardo R. Fonseca</h1>
 
 <h3 align="center">Data Scientist</h3>
 
 <div align="center">
-    <a href="https://www.linkedin.com/in/charlles-kleber-953790174/" target="_blank"><img src="icons/linkedin.svg" alt="Linkedin" width="4%" lenght="4%"></a>&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/bernardofonsecaster/" target="_blank"><img src="icons/linkedin.svg" alt="Linkedin" width="4%" lenght="4%"></a>&nbsp;&nbsp;
     <a href="https://www.kaggle.com/charlleskleber" target="_blank"><img src="icons/kaggle.svg" alt="Kaggle" width="4%" lenght="4%"></a>
 </div>
 
 <div align="center">
 	<div style="display: inline-block;">
-		<a href="https://www.linkedin.com/in/charlleskleber/" target="_blank">	
-			<strong>charlleskgf@gmail.com</strong></a>
+		<a href="https://www.linkedin.com/in/bernardorfonseca/" target="_blank">	
+			<strong>bernardofonsecaster@gmail.com</strong></a>
 	</div>
 </div>
 

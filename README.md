@@ -3,7 +3,7 @@
 <h3 align="center">Financial Data Analyst</h3>
 
 <div align="center">
-    <a href="https://www.linkedin.com/in/bernardofonsecaster/" target="_blank"><img src="icons/linkedin.svg" alt="Linkedin" width="4%" lenght="4%"></a>&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/bernardorfonseca/" target="_blank"><img src="icons/linkedin.svg" alt="Linkedin" width="4%" lenght="4%"></a>&nbsp;&nbsp;
     <a href="https://www.kaggle.com/bernardofonseca" target="_blank"><img src="icons/kaggle.svg" alt="Kaggle" width="4%" lenght="4%"></a>
 </div>
 

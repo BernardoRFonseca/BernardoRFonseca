@@ -71,6 +71,6 @@ Python | Anaconda | SQL | Excel | Bloomberg Terminal
 
 ---
 <div style="display: flex;justify-content: space-around;" align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=charlleskleber&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" alt="github stats">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlleskleber&layout=compact&hide_border=true&title_color=000" alt="clebio languages">
+	<img src="https://github-readme-stats.vercel.app/api?username=bernardorfonseca&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" alt="github stats">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernardorfonseca&layout=compact&hide_border=true&title_color=000" alt="clebio languages">
 

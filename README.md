@@ -55,7 +55,7 @@ Python | Anaconda | SQL | Excel | Bloomberg Terminal
 <strong><a href="https://github.com/BernardoRFonseca/RossmannSalesPred">1. Rossmann Sales Prediction </a></strong>
 <br>
 <a href="https://https://github.com/BernardoRFonseca/RossmannSalesPred">
-	<img src="https://user-images.githubusercontent.com/68538809/134378783-172d7fcd-302c-463b-8f30-d855285e82ac.jpg)" alt="drawing" align="right" width="25%"/>
+	<img src="https://user-images.githubusercontent.com/68538809/134378783-172d7fcd-302c-463b-8f30-d855285e82ac.jpg" alt="drawing" align="right" width="25%"/>
 </a>
 > <p>Market Analysis for Business decisions.</p>
 > <p>Skills: Unbalanced Data, Machine Learning,  Data Viz, prediction, Business Intelligence</p>

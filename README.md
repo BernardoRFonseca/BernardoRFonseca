@@ -63,10 +63,6 @@ Python | Anaconda | SQL | Excel | Bloomberg Terminal
 
 <h1>Data Analysis Projects</h1>
 
-
-
-
-
 <br>
 
 <br></br>

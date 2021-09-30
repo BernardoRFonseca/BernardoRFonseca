@@ -5,11 +5,6 @@
 <div align="center">
     <a href="https://www.linkedin.com/in/bernardorfonseca/" target="_blank"><img src="icons/linkedin.svg" alt="Linkedin" width="4%" lenght="4%"></a>&nbsp;&nbsp;
     <a href="https://www.kaggle.com/bernardofonseca" target="_blank"><img src="icons/kaggle.svg" alt="Kaggle" width="4%" lenght="4%"></a>
-	
-	
-	
-[![Follow on Linkedin](https://user-images.githubusercontent.com/68538809/135466094-962cd7e4-28a2-48fd-8a31-76ccde433104.png)](https://www.linkedin.com/in/bernardorfonseca/)
-</div>
 
 <div align="center">
 	<div style="display: inline-block;">

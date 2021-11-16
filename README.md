@@ -43,6 +43,8 @@ Python | Anaconda | SQL | Excel | Bloomberg Terminal
 
 <h1>Data Science Projects</h1>
 
+<h2>Prediction Projects</h2>
+
 <strong><a href="https://github.com/BernardoRFonseca/teslastock">1. Tesla Stock Price Project </a></strong>
 <br>
 <a href="https://github.com/BernardoRFonseca/teslastock">

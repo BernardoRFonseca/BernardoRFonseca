@@ -1,5 +1,7 @@
 <h1 align="center">Hi there 👋! I'm Bernardo R. Fonseca</h1>
 
+<img src="https://user-images.githubusercontent.com/68538809/142040161-35a11ede-a2e8-44f9-8837-4d84be80996e.png" alt="drawing" align="left" width="25%"/>
+
 <h3 align="center">Financial Data Analyst</h3>
 
 <div align="center">
@@ -16,13 +18,17 @@
 
 <br></br>
 
+<div align="center"> From <img src="https://user-images.githubusercontent.com/68538809/142036633-42ade2ca-c021-4369-be7b-40819b9246cf.png" width="13"/> <b>Lisboa, Portugal</b>. Living in <img src="https://user-images.githubusercontent.com/68538809/142036873-b13d7ad0-5ebf-489c-aab7-13c91e0e16b3.png" width="13"/> <b> Dublin, Ireland. </b> </div>
+	
+<br><br>
+
 The main objective of this data science personal project portfolio is to demonstrate my skills in solving business challenges through my knowledge and tools of Data Science.
 
 24-year-old **Trilingual** professional (English, Portuguese and French) possessing a **BSc in Finance, Nanodegree in Data Analysis** and several courses related to economics. **Over 4 years of experience** working as Financial Data Analyst and Data Collector.
 
 Currently **Senior Financial Data Analyst** at Infosys BPM for Bloomberg LP and a **Higher Diploma in Science in Data Analytics student** at CCT College Dublin.
 
-**Expertise:** Data Analysis | Financial Analysis|
+**Expertise:** Data Analysis | Financial Analysis |
 
 Python | Anaconda | SQL | Excel | Bloomberg Terminal
 

@@ -24,7 +24,7 @@
 
 The main objective of this data science personal project portfolio is to demonstrate my skills in solving business challenges through my knowledge and tools of Data Science.
 
-24-year-old **Trilingual** professional (English, Portuguese and French) possessing a **BSc in Finance, Nanodegree in Data Analysis** and several courses related to economics. **Over 4 years of experience** working as Financial Data Analyst and Data Collector.
+25-year-old **Trilingual** professional (English, Portuguese and French) possessing a **BSc in Finance, Nanodegree in Data Analysis** and several courses related to economics. **Over 4 years of experience** working as Financial Data Analyst and Data Collector.
 
 Currently **Senior Financial Data Analyst** at Infosys BPM for Bloomberg LP and a **Higher Diploma in Science in Data Analytics student** at CCT College Dublin.
 

@@ -28,10 +28,6 @@ The main objective of this data science personal project portfolio is to demonst
 
 Currently **Senior Financial Data Analyst** at Infosys BPM for Bloomberg LP and a **Higher Diploma in Science in Data Analytics student** at CCT College Dublin.
 
-**Expertise:** Data Analysis | Financial Analysis |
-
-Python | Anaconda | SQL | Excel | Bloomberg Terminal
-
 ### **Analytical Tools:**
 
 **Data Collect and Storage:** SQL, MySQL and Postgres.

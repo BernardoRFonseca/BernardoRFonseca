@@ -73,7 +73,7 @@ Currently **Senior Financial Data Analyst** at Infosys BPM for Bloomberg LP and 
 	<img src="https://user-images.githubusercontent.com/68538809/142029929-13a41965-6014-4101-a963-1d64b11da816.jpg" alt="drawing" align="right" width="25%"/>
 </a>
 > <p>Market Analysis for Business decisions.</p>
-> <p>Skills: Unbalanced Data, Machine Learning,  Data Viz, Clustering, Business Intelligence</p>
+> <p>Skills: Unbalanced Data, Machine Learning, Data Viz, Clustering, Business Intelligence</p>
 <br>
 
 <h2>Classification Projects</h2>
@@ -85,7 +85,7 @@ Currently **Senior Financial Data Analyst** at Infosys BPM for Bloomberg LP and 
 </a>
 
 > <p>Market Analysis for Business decisions.</p>
-> <p>Skills: Unbalanced Data, Machine Learning,  Data Viz, Clustering, Business Intelligence</p>
+> <p>Skills: Unbalanced Data, Machine Learning, Data Viz, Classification, Business Intelligence</p>
 <br>
 
 <h1>Data Analysis Projects</h1>

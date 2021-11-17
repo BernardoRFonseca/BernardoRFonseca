@@ -51,7 +51,7 @@ Python | Anaconda | SQL | Excel | Bloomberg Terminal
 
 <h2>Prediction Projects</h2>
 
-<strong><a href="https://github.com/BernardoRFonseca/teslastock">1. Tesla Stock Price Project </a></strong>
+<strong><a href="https://github.com/BernardoRFonseca/teslastock">1. Tesla Stock Price Prediction </a></strong>
 <br>
 <a href="https://github.com/BernardoRFonseca/teslastock">
 	<img src="https://user-images.githubusercontent.com/68538809/118410140-e2fbf200-b685-11eb-8c96-6600d7e8c8ea.jpg" alt="drawing" align="right" width="25%"/>
@@ -65,17 +65,29 @@ Python | Anaconda | SQL | Excel | Bloomberg Terminal
 <a href="https://https://github.com/BernardoRFonseca/RossmannSalesPred">
 	<img src="https://user-images.githubusercontent.com/68538809/134378783-172d7fcd-302c-463b-8f30-d855285e82ac.jpg" alt="drawing" align="right" width="25%"/>
 </a>
-> <p>Market Analysis for Business decisions.</p>
-> <p>Skills: Unbalanced Data, Machine Learning,  Data Viz, prediction, Business Intelligence</p>
+> <p>Sales forecast for six weeks of a pharmacy chain.</p>
+> <p>Skills: Machine Learning, Time Series, Heroku, API, Bot</p>
 <br>
 
 <h2>Clustering Projects</h2>
 
-<strong><a href="https://github.com/BernardoRFonseca/FintechClustering">1. Fintech Credit Customers Clustering Project </a></strong>
+<strong><a href="https://github.com/BernardoRFonseca/FintechClustering">1. Fintech Credit Users Profile Clustering </a></strong>
 <br>
 <a href="https://github.com/BernardoRFonseca/FintechClustering">
 	<img src="https://user-images.githubusercontent.com/68538809/142029929-13a41965-6014-4101-a963-1d64b11da816.jpg" alt="drawing" align="right" width="25%"/>
 </a>
+> <p>Market Analysis for Business decisions.</p>
+> <p>Skills: Unbalanced Data, Machine Learning,  Data Viz, Clustering, Business Intelligence</p>
+<br>
+
+<h2>Classification Projects</h2>
+
+<strong><a href="">1. Health Insurance Cross-Sell Customers Classification </a></strong>
+<br>
+<a href="">
+	<img src="https://user-images.githubusercontent.com/68538809/142218390-a331bfc7-deb6-44c2-99c0-a8a74ad0ac24.png" alt="drawing" align="right" width="25%"/>
+</a>
+
 > <p>Market Analysis for Business decisions.</p>
 > <p>Skills: Unbalanced Data, Machine Learning,  Data Viz, Clustering, Business Intelligence</p>
 <br>

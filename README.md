@@ -22,7 +22,7 @@
 	
 <br><br>
 
-The main objective of this data science personal project portfolio is to demonstrate my skills in solving business challenges through my knowledge and tools of Data Science.
+The main objective of this personal projects portfolio is to demonstrate my skills in solving business challenges through my knowledge and tools of Data Science.
 
 25-year-old **Trilingual** professional (English, Portuguese and French) possessing a **BSc in Finance, Nanodegree in Data Analysis** and several courses related to economics. **Over 4 years of experience** working as Financial Data Analyst and Data Collector.
 

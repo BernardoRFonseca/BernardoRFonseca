@@ -38,13 +38,13 @@ Python | Anaconda | SQL | Excel | Bloomberg Terminal
 
 **Data Processing and Analysis:** Python
 
-**Development:** Git, Scrum. 
+**Development:** Git and Scrum. 
 
-**Data Vizualization:** Tableau, Power BI
+**Data Vizualization:** Tableau, Power BI, Looker
 
-**Machine Learning Modeling:** Classification, Regression, Time Series.
+**Machine Learning Modeling:** Classification, Regression, Clustering, Time Series and NLP.
 
-**Machine Learning Deployment:** Heroku, Flask 
+**Machine Learning Deployment:** AWS Cloud, Cloud Google Platform (GSP), Heroku and Flask.
 
 
 <h1>Data Science Projects</h1>

@@ -1,7 +1,5 @@
 <h1 align="center">Hi there 👋! I'm Bernardo R. Fonseca</h1>
 
-<img src="https://user-images.githubusercontent.com/68538809/142040161-35a11ede-a2e8-44f9-8837-4d84be80996e.png" alt="drawing" align="left" width="25%"/>
-
 <h3 align="center">Financial Data Analyst</h3>
 
 <div align="center">

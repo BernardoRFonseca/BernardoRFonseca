@@ -54,7 +54,7 @@ Currently **Senior Financial Data Analyst** at Infosys BPM for Bloomberg LP and 
 > <p>Skills: Unbalanced Data, Machine Learning,  Data Viz, prediction, Business Intelligence</p>
 <br>
 
-<strong><a href="https://github.com/BernardoRFonseca/RossmannSalesPred">2. Rossmann Sales Prediction </a></strong>
+<strong><a href="https://github.com/BernardoRFonseca/RossmannSalesPred">2. Rossmann Sales Prediction (ReadMe File in DEV...)</a></strong>
 <br>
 <a href="https://https://github.com/BernardoRFonseca/RossmannSalesPred">
 	<img src="https://user-images.githubusercontent.com/68538809/134378783-172d7fcd-302c-463b-8f30-d855285e82ac.jpg" alt="drawing" align="right" width="25%"/>
@@ -65,7 +65,7 @@ Currently **Senior Financial Data Analyst** at Infosys BPM for Bloomberg LP and 
 
 <h2>Clustering Projects</h2>
 
-<strong><a href="https://github.com/BernardoRFonseca/FintechClustering">1. Fintech Credit Users Profile Clustering </a></strong>
+<strong><a href="https://github.com/BernardoRFonseca/FintechClustering">1. Fintech Credit Users Profile Clustering (In DEV...) </a></strong>
 <br>
 <a href="https://github.com/BernardoRFonseca/FintechClustering">
 	<img src="https://user-images.githubusercontent.com/68538809/142029929-13a41965-6014-4101-a963-1d64b11da816.jpg" alt="drawing" align="right" width="25%"/>
@@ -76,7 +76,7 @@ Currently **Senior Financial Data Analyst** at Infosys BPM for Bloomberg LP and 
 
 <h2>Classification Projects</h2>
 
-<strong><a href="https://github.com/BernardoRFonseca/InsuranceCS">1. Health Insurance Cross-Sell Customers Classification </a></strong>
+<strong><a href="https://github.com/BernardoRFonseca/InsuranceCS">1. Health Insurance Cross-Sell Customers Classification (ReadMe File in DEV...) </a></strong>
 <br>
 <a href="">
 	<img src="https://user-images.githubusercontent.com/68538809/142218390-a331bfc7-deb6-44c2-99c0-a8a74ad0ac24.png" alt="drawing" align="right" width="25%"/>

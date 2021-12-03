@@ -43,16 +43,19 @@ Currently **Senior Financial Data Analyst** at Infosys BPM for Bloomberg LP and 
 
 <h1>Data Science Projects</h1>
 
-<h2>Prediction Projects</h2>
+<h2>Classification Projects</h2>
 
-<strong><a href="https://github.com/BernardoRFonseca/teslastock">1. Tesla Stock Price Prediction </a></strong>
+<strong><a href="https://github.com/BernardoRFonseca/InsuranceCS">1. Health Insurance Cross-Sell Customers Classification (ReadMe File in DEV...) </a></strong>
 <br>
-<a href="https://github.com/BernardoRFonseca/teslastock">
-	<img src="https://user-images.githubusercontent.com/68538809/118410140-e2fbf200-b685-11eb-8c96-6600d7e8c8ea.jpg" alt="drawing" align="right" width="25%"/>
+<a href="">
+	<img src="https://user-images.githubusercontent.com/68538809/142218390-a331bfc7-deb6-44c2-99c0-a8a74ad0ac24.png" alt="drawing" align="right" width="25%"/>
 </a>
+
 > <p>Market Analysis for Business decisions.</p>
-> <p>Skills: Unbalanced Data, Machine Learning,  Data Viz, prediction, Business Intelligence</p>
+> <p>Skills: Unbalanced Data, Machine Learning, Data Viz, Classification, Business Intelligence</p>
 <br>
+
+<h2>Prediction Projects</h2>
 
 <strong><a href="https://github.com/BernardoRFonseca/RossmannSalesPred">2. Rossmann Sales Prediction (ReadMe File in DEV...)</a></strong>
 <br>
@@ -61,6 +64,15 @@ Currently **Senior Financial Data Analyst** at Infosys BPM for Bloomberg LP and 
 </a>
 > <p>Sales forecast for six weeks of a pharmacy chain.</p>
 > <p>Skills: Machine Learning, Time Series, Heroku, API, Bot</p>
+<br>
+
+<strong><a href="https://github.com/BernardoRFonseca/teslastock">1. Tesla Stock Price Prediction </a></strong>
+<br>
+<a href="https://github.com/BernardoRFonseca/teslastock">
+	<img src="https://user-images.githubusercontent.com/68538809/118410140-e2fbf200-b685-11eb-8c96-6600d7e8c8ea.jpg" alt="drawing" align="right" width="25%"/>
+</a>
+> <p>Market Analysis for Business decisions.</p>
+> <p>Skills: Unbalanced Data, Machine Learning,  Data Viz, prediction, Business Intelligence</p>
 <br>
 
 <h2>Clustering Projects</h2>
@@ -72,18 +84,6 @@ Currently **Senior Financial Data Analyst** at Infosys BPM for Bloomberg LP and 
 </a>
 > <p>Market Analysis for Business decisions.</p>
 > <p>Skills: Unbalanced Data, Machine Learning, Data Viz, Clustering, Business Intelligence</p>
-<br>
-
-<h2>Classification Projects</h2>
-
-<strong><a href="https://github.com/BernardoRFonseca/InsuranceCS">1. Health Insurance Cross-Sell Customers Classification (ReadMe File in DEV...) </a></strong>
-<br>
-<a href="">
-	<img src="https://user-images.githubusercontent.com/68538809/142218390-a331bfc7-deb6-44c2-99c0-a8a74ad0ac24.png" alt="drawing" align="right" width="25%"/>
-</a>
-
-> <p>Market Analysis for Business decisions.</p>
-> <p>Skills: Unbalanced Data, Machine Learning, Data Viz, Classification, Business Intelligence</p>
 <br>
 
 <h1>Data Analysis Projects</h1>

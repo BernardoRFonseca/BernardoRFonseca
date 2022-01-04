@@ -57,7 +57,7 @@ Currently **Senior Financial Data Analyst** at Infosys BPM for Bloomberg LP and 
 
 <h2>Prediction Projects</h2>
 
-<strong><a href="https://github.com/BernardoRFonseca/RossmannSalesPred">2. Rossmann Sales Prediction (ReadMe File in DEV...)</a></strong>
+<strong><a href="https://github.com/BernardoRFonseca/RossmannSalesPred">1. Rossmann Sales Prediction (ReadMe File in DEV...)</a></strong>
 <br>
 <a href="https://https://github.com/BernardoRFonseca/RossmannSalesPred">
 	<img src="https://user-images.githubusercontent.com/68538809/148125358-4b61a4af-bc42-4901-8633-49aa49a984b5.png" alt="drawing" align="right" width="25%"/>
@@ -66,7 +66,7 @@ Currently **Senior Financial Data Analyst** at Infosys BPM for Bloomberg LP and 
 > <p>Skills: Machine Learning, Time Series, Heroku, API, Bot</p>
 <br>
 
-<strong><a href="https://github.com/BernardoRFonseca/teslastock">1. Tesla Stock Price Prediction </a></strong>
+<strong><a href="https://github.com/BernardoRFonseca/teslastock">2. Tesla Stock Price Prediction </a></strong>
 <br>
 <a href="https://github.com/BernardoRFonseca/teslastock">
 	<img src="https://user-images.githubusercontent.com/68538809/118410140-e2fbf200-b685-11eb-8c96-6600d7e8c8ea.jpg" alt="drawing" align="right" width="25%"/>

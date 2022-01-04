@@ -45,7 +45,7 @@ Currently **Senior Financial Data Analyst** at Infosys BPM for Bloomberg LP and 
 
 <h2>Classification Projects</h2>
 
-<strong><a href="https://github.com/BernardoRFonseca/InsuranceCS">1. Health Insurance Cross-Sell Customers Classification (ReadMe File in DEV...) </a></strong>
+<strong><a href="https://github.com/BernardoRFonseca/InsuranceCS">1. Health Insurance Cross-Sell Customers Classification </a></strong>
 <br>
 <a href="">
 	<img src="https://user-images.githubusercontent.com/68538809/142218390-a331bfc7-deb6-44c2-99c0-a8a74ad0ac24.png" alt="drawing" align="right" width="25%"/>

@@ -60,7 +60,7 @@ Currently **Senior Financial Data Analyst** at Infosys BPM for Bloomberg LP and 
 <strong><a href="https://github.com/BernardoRFonseca/RossmannSalesPred">2. Rossmann Sales Prediction (ReadMe File in DEV...)</a></strong>
 <br>
 <a href="https://https://github.com/BernardoRFonseca/RossmannSalesPred">
-	<img src="https://user-images.githubusercontent.com/68538809/134378783-172d7fcd-302c-463b-8f30-d855285e82ac.jpg" alt="drawing" align="right" width="25%"/>
+	<img src="https://user-images.githubusercontent.com/68538809/148125358-4b61a4af-bc42-4901-8633-49aa49a984b5.png" alt="drawing" align="right" width="25%"/>
 </a>
 > <p>Sales forecast for six weeks of a pharmacy chain.</p>
 > <p>Skills: Machine Learning, Time Series, Heroku, API, Bot</p>

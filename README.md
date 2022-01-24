@@ -82,7 +82,7 @@ Currently **Senior Financial Data Analyst** at Infosys BPM for Bloomberg LP and 
 <strong><a href="https://github.com/BernardoRFonseca/teslastock">2. Tesla Stock Price Analysis </a></strong>
 <br>
 <a href="https://github.com/BernardoRFonseca/teslastock">
-	<img src="https://user-images.githubusercontent.com/68538809/150776051-b998a775-51a4-429a-830f-bb0648b0a3bf.png" alt="drawing" align="right" width="25%"/>
+	<img src="https://user-images.githubusercontent.com/68538809/150776710-a74570ff-dca2-4c71-8e9f-90cd1bfb8423.jpg" alt="drawing" align="right" width="25%"/>
 </a>
 > <p>Tesla 10 years price analysis.</p>
 > <p>Skills:</p>

@@ -66,15 +66,6 @@ Currently **Senior Financial Data Analyst** at Infosys BPM for Bloomberg LP and 
 > <p>Skills: Machine Learning, Time Series, Heroku, API, Bot</p>
 <br>
 
-<strong><a href="https://github.com/BernardoRFonseca/teslastock">2. Tesla Stock Price Prediction </a></strong>
-<br>
-<a href="https://github.com/BernardoRFonseca/teslastock">
-	<img src="https://user-images.githubusercontent.com/68538809/118410140-e2fbf200-b685-11eb-8c96-6600d7e8c8ea.jpg" alt="drawing" align="right" width="25%"/>
-</a>
-> <p>Market Analysis for Business decisions.</p>
-> <p>Skills: Unbalanced Data, Machine Learning,  Data Viz, prediction, Business Intelligence</p>
-<br>
-
 <h2>Clustering Projects</h2>
 
 <strong><a href="https://github.com/BernardoRFonseca/FintechClustering">1. Fintech Credit Users Profile Clustering (In DEV...) </a></strong>
@@ -88,6 +79,14 @@ Currently **Senior Financial Data Analyst** at Infosys BPM for Bloomberg LP and 
 
 <h1>Data Analysis Projects</h1>
 
+<strong><a href="https://github.com/BernardoRFonseca/teslastock">2. Tesla Stock Price Analysis </a></strong>
+<br>
+<a href="https://github.com/BernardoRFonseca/teslastock">
+	<img src="https://user-images.githubusercontent.com/68538809/150776051-b998a775-51a4-429a-830f-bb0648b0a3bf.png" alt="drawing" align="right" width="25%"/>
+</a>
+> <p>Tesla 10 years price analysis.</p>
+> <p>Skills:</p>
+</p>
 <br>
 
 <br></br>

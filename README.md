@@ -52,7 +52,7 @@ Currently **Senior Financial Data Analyst** at Infosys BPM for Bloomberg LP and 
 </a>
 
 > <p> This project intends to provide the sales team with a machine learning model based solution that ranks 127,000 health insurance customers by likelihood of purchasing the new motor insurance and to decide which 20,000 (budget limitation) potential customers should be contacted and by what order. </p>
-> <p> With 20,000 calls, the sales team will be able to reach <b>45.44%</b> of the interested customers. <b>This is more 2,829 customers</b> when compared to a random model, representing an <b>increase of 2,546,100€ in revenue</b>. </p>
+> <p> With 20,000 calls, the sales team will be able to reach <b>45.44%</b> of the interested customers. This is <b>more 2,829 customers</b> when compared to a random model, representing an <b>increase of 2,546,100€ in revenue</b>. </p>
 <br>
 
 <h2>Prediction Projects</h2>

@@ -22,9 +22,9 @@
 
 The main objective of this personal projects portfolio is to demonstrate my skills in solving business challenges through my knowledge and tools of Data Science.
 
-25-year-old **Trilingual** professional (English, Portuguese and French) possessing a **BSc in Finance, Nanodegree in Data Analysis** and several courses related to economics. **Over 4 years of experience** working as Financial Data Analyst and Data Collector.
+25-year-old **Trilingual** professional (English, Portuguese and French) possessing a **Higher Diploma in Science in Data Analytics, BSc in Finance, Nanodegree in Data Analysis** and several courses related to economics. **Over 4 years of experience** working as Financial Data Analyst and Data Collector.
 
-Currently **Senior Financial Data Analyst** at Infosys BPM for Bloomberg LP and a **Higher Diploma in Science in Data Analytics student** at CCT College Dublin.
+Currently **Financial Analyst** at Amundi.
 
 ### **Analytical Tools:**
 
@@ -62,8 +62,8 @@ Currently **Senior Financial Data Analyst** at Infosys BPM for Bloomberg LP and 
 <a href="https://https://github.com/BernardoRFonseca/RossmannSalesPred">
 	<img src="https://user-images.githubusercontent.com/68538809/148125358-4b61a4af-bc42-4901-8633-49aa49a984b5.png" alt="drawing" align="right" width="25%"/>
 </a>
-> <p>Sales forecast for six weeks of a pharmacy chain.</p>
-> <p>Skills: Machine Learning, Time Series, Heroku, API, Bot</p>
+> <p>The scope of this project is based on a CFO demand: stores will be renovated, and for that, the budget needs to be aligned with each store's sales. Adding to that, it was requested to predict each store's sales for the following 6 weeks </p>
+> <p></p>
 <br>
 
 <h2>Clustering Projects</h2>

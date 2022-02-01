@@ -13,6 +13,7 @@
 			<strong>bernardofonsecaster@gmail.com</strong></a>
 	</div>
 </div>
+<img width="739" alt="Untitled" src="https://user-images.githubusercontent.com/68538809/152009377-78590d94-f38c-439e-ae9d-b09665a54934.png">
 
 <br></br>
 

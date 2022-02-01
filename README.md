@@ -13,14 +13,11 @@
 			<strong>bernardofonsecaster@gmail.com</strong></a>
 	</div>
 </div>
-<img width="739" alt="Untitled" src="https://user-images.githubusercontent.com/68538809/152009377-78590d94-f38c-439e-ae9d-b09665a54934.png">
-
 <br></br>
 
 <div align="center"> From <img src="https://user-images.githubusercontent.com/68538809/142036633-42ade2ca-c021-4369-be7b-40819b9246cf.png" width="13"/> <b>Lisboa, Portugal</b>. Living in <img src="https://user-images.githubusercontent.com/68538809/142036873-b13d7ad0-5ebf-489c-aab7-13c91e0e16b3.png" width="13"/> <b> Dublin, Ireland. </b> </div>
 	
 <br><br>
-
 The main objective of this personal projects portfolio is to demonstrate my skills in solving business challenges through my knowledge and tools of Data Science.
 
 25-year-old **Trilingual** professional (English, Portuguese and French) possessing a **Higher Diploma in Science in Data Analytics, BSc in Finance, Nanodegree in Data Analysis** and several courses related to economics. **Over 4 years of experience** working as Financial Data Analyst and Data Collector.

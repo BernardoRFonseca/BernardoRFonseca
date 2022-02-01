@@ -61,7 +61,7 @@ Currently **Financial Analyst** at Amundi.
 	<img src="https://user-images.githubusercontent.com/68538809/148125358-4b61a4af-bc42-4901-8633-49aa49a984b5.png" alt="drawing" align="right" width="25%"/>
 </a>
 > <p>The scope of this project is based on a CFO demand: stores will be renovated, and for that, the budget needs to be aligned with each store's sales. Adding to that, it was requested to predict each store's sales for the following 6 weeks </p>
-> <p></p>
+> <p>The performance of this model would better forecast <b>revenue by approximately €45,571,806.88</b> when compared to a baseline model according to the company's business model described in the problem definition.</p>
 <br>
 
 <h2>Clustering Projects</h2>

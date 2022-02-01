@@ -55,12 +55,12 @@ Currently **Financial Analyst** at Amundi.
 
 <h2>Prediction Projects</h2>
 
-<strong><a href="https://github.com/BernardoRFonseca/RossmannSalesPred">1. Rossmann Sales Prediction (ReadMe File in DEV...)</a></strong>
+<strong><a href="https://github.com/BernardoRFonseca/RossmannSalesPred">1. Rossmann Sales Prediction</a></strong>
 <br>
 <a href="https://https://github.com/BernardoRFonseca/RossmannSalesPred">
 	<img src="https://user-images.githubusercontent.com/68538809/148125358-4b61a4af-bc42-4901-8633-49aa49a984b5.png" alt="drawing" align="right" width="25%"/>
 </a>
-> <p>The scope of this project is based on a CFO demand: stores will be renovated, and for that, the budget needs to be aligned with each store's sales. Adding to that, it was requested to predict each store's sales for the following 6 weeks </p>
+> <p>The scope of this project is based on a CFO demand: stores will be renovated, and for that, the budget needs to be aligned with each store's sales. It was requested to predict each store's sales for the following 6 weeks and to deploy these prediction. </p>
 > <p>The performance of this model would better forecast <b>revenue by approximately €45,571,806.88</b> when compared to a baseline model according to the company's business model described in the problem definition.</p>
 <br>
 
@@ -77,7 +77,7 @@ Currently **Financial Analyst** at Amundi.
 
 <h1>Data Analysis Projects</h1>
 
-<strong><a href="https://github.com/BernardoRFonseca/teslastock">2. Tesla Stock Price Analysis </a></strong>
+<strong><a href="https://github.com/BernardoRFonseca/teslastock">1. Tesla Stock Price Analysis </a></strong>
 <br>
 <a href="https://github.com/BernardoRFonseca/teslastock">
 	<img src="https://user-images.githubusercontent.com/68538809/150776710-a74570ff-dca2-4c71-8e9f-90cd1bfb8423.jpg" alt="drawing" align="right" width="25%"/>

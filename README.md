@@ -22,7 +22,7 @@ The main objective of this personal projects portfolio is to demonstrate my skil
 
 25-year-old **Trilingual** professional (English, Portuguese and French) possessing a **Higher Diploma in Science in Data Analytics, BSc in Finance, Nanodegree in Data Analysis** and several courses related to economics. **Over 4 years of experience** working as Financial Data Analyst and Data Collector.
 
-Currently **Financial Analyst** at Amundi.
+Currently **Data Analyst** at Amundi.
 
 ### **Analytical Tools:**
 
